@@ -1,5 +1,5 @@
 {
-    "name": "d-m-f/hotspot-wizard",
+    "name": "dmf/hotspot-wizard",
     "type": "typo3-cms-extension",
     "description": "This extension provides the hotspot wizard backend module",
     "authors": [
