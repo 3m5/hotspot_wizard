@@ -35,7 +35,15 @@
     "scripts": {
         "post-autoload-dump": [
             "TYPO3\\TestingFramework\\Composer\\ExtensionTestEnvironment::prepare"
-        ]
+        ],
+		"prepare-release": [
+			"rm .gitignore",
+			"rm .gitattributes",
+			"rm -rf .github",
+			"rm -rf Tests",
+			"rm .editorconfig",
+			"rm ExtensionBuilder.json"
+		]
     },
     "extra": {
         "typo3/cms": {
