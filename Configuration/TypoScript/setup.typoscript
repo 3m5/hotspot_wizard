@@ -1,0 +1,15 @@
+
+# Module configuration
+module.tx_hotspotwizard_web_hotspotwizardwizard {
+    persistence {
+        storagePid = {$module.tx_hotspotwizard_wizard.persistence.storagePid}
+    }
+    view {
+        templateRootPaths.0 = EXT:hotspot_wizard/Resources/Private/Backend/Templates/
+        templateRootPaths.1 = {$module.tx_hotspotwizard_wizard.view.templateRootPath}
+        partialRootPaths.0 = EXT:hotspot_wizard/Resources/Private/Backend/Partials/
+        partialRootPaths.1 = {$module.tx_hotspotwizard_wizard.view.partialRootPath}
+        layoutRootPaths.0 = EXT:hotspot_wizard/Resources/Private/Backend/Layouts/
+        layoutRootPaths.1 = {$module.tx_hotspotwizard_wizard.view.layoutRootPath}
+    }
+}

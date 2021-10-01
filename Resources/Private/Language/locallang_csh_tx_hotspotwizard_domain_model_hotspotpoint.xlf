@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:hotspot_wizard/Resources/Private/Language/locallang_csh" date="2021-10-01T08:38:20Z" product-name="hotspot_wizard">
+		<header/>
+		<body>
+			<trans-unit id="x_coordinate.description" resname="x_coordinate.description">
+				<source>xCoordinate</source>
+			</trans-unit>
+			<trans-unit id="y_coordinate.description" resname="y_coordinate.description">
+				<source>yCoordinate</source>
+			</trans-unit>
+			<trans-unit id="description.description" resname="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="link.description" resname="link.description">
+				<source>link</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

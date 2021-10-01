@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:hotspot_wizard/Resources/Private/Language/locallang" date="2021-10-01T08:38:20Z" product-name="hotspot_wizard">
+		<header/>
+		<body>
+			<trans-unit id="tx_hotspotwizard_domain_model_hotspot" resname="tx_hotspotwizard_domain_model_hotspot">
+				<source>Hotspot</source>
+			</trans-unit>
+			<trans-unit id="tx_hotspotwizard_domain_model_hotspot.title" resname="tx_hotspotwizard_domain_model_hotspot.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_hotspotwizard_domain_model_hotspot.image" resname="tx_hotspotwizard_domain_model_hotspot.image">
+				<source>Image</source>
+			</trans-unit>
+			<trans-unit id="tx_hotspotwizard_domain_model_hotspot.hotspot_points" resname="tx_hotspotwizard_domain_model_hotspot.hotspot_points">
+				<source>Hotspot Points</source>
+			</trans-unit>
+			<trans-unit id="tx_hotspotwizard_domain_model_hotspotpoint" resname="tx_hotspotwizard_domain_model_hotspotpoint">
+				<source>Hotspot Point</source>
+			</trans-unit>
+			<trans-unit id="tx_hotspotwizard_domain_model_hotspotpoint.x_coordinate" resname="tx_hotspotwizard_domain_model_hotspotpoint.x_coordinate">
+				<source>X Coordinate</source>
+			</trans-unit>
+			<trans-unit id="tx_hotspotwizard_domain_model_hotspotpoint.y_coordinate" resname="tx_hotspotwizard_domain_model_hotspotpoint.y_coordinate">
+				<source>Y Coordinate</source>
+			</trans-unit>
+			<trans-unit id="tx_hotspotwizard_domain_model_hotspotpoint.description" resname="tx_hotspotwizard_domain_model_hotspotpoint.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_hotspotwizard_domain_model_hotspotpoint.link" resname="tx_hotspotwizard_domain_model_hotspotpoint.link">
+				<source>Link</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
